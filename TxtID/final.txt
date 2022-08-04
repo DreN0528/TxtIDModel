@@ -1,0 +1,7 @@
+Using our TextID model, we evaluated two pieces of text - namely, Federalist Papers written by John Jay Adams
+and The Communist Manifesto. After running our model a few times, we came to the conclusion that the Communist
+Manifesto produces higher similarities to Huckleberry Finn than it does to Federalist Papers. Our team was not surprised by these results
+the matched our expectations due to one primary reason. The Communist Manifesto was authoried in the year 1848 and Huckleberry Finn in
+the year 1884, due to the similarity in time periods we expected higher similarities. Meanwhile, the federalist paper was written in the year
+1787 thus making the use of different language styles and vocabulary.
+
